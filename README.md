@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0779B3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF6E33&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spotify logo"/>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=Discord&label=&color=0779B3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=FF6E33&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=Spotify&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spotify logo"/>
   
 </div>
 
